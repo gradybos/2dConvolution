@@ -8,3 +8,5 @@ I recommend making a virtual environment, then running:
 These are the only two packages required in order for the code to run properly.
 
 In the Notebook, I have marked certain sections as "Written by John Rieffel" because this was done as a project for one of his courses, and I wanted to make it clear which sections were completed solely by me.
+
+Click this link to see the [Main Project](https://github.com/gradybos/2dConvolution/blob/main/2dConvolution.ipynb).
